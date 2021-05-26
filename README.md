@@ -8,7 +8,7 @@ This is a test crud application with simple functionality. You can create, edit,
 
 - Create a database with name "crud_db".
 - Import dump of crud_db.sql database, it is in the root folder.
-- Run composer install.
+- Run ``` $ composer install ```.
 - Change settings in config/db.php('user' => 'your_username', 'pass' => 'your_password').
 - Open site at url http://localhost/books.
 
