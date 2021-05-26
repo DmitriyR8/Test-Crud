@@ -1,3 +1,4 @@
+<p align="center"><img src="https://iconscout.com/icon/php-99"></p>
             Документация по развороту проекта:
 
 1. Создать бд под названием crud_db.
