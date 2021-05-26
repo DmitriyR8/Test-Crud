@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.svgrepo.com/show/303208/php-1-logo.svg"> PHP</p>
+<p align="center"><img src="https://www.svgrepo.com/show/303208/php-1-logo.svg"></p>
             Документация по развороту проекта:
 
 1. Создать бд под названием crud_db.
