@@ -1,4 +1,4 @@
-<p align="center"><img src="https://iconscout.com/icon/php-99"></p>
+<p align="center"><img src="https://www.vexels.com/png-svg/preview/166469/php-programming-language-flat"></p>
             Документация по развороту проекта:
 
 1. Создать бд под названием crud_db.
