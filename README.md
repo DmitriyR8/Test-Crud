@@ -6,13 +6,13 @@ This is a test crud application with simple functionality. You can create, edit,
 
 ## How to run project
 
-1. Создать бд под названием crud_db.
-2. Импортировать дамп бд crud_db.sql.
-3. Выполнить composer install.
-4. Изменить настройки в config/db ('user' => 'username', 'pass' => 'password').
-5. Открыть сайт по url localhost/books, если разворачивать под линукс то настраиваем виртуальный хост и открываем по url hostname/books.
-6. Проект работает под сервером apache.   
+- Create a database called crud_db.
+- Import dump of crud_db.sql database.
+- Run composer install.
+- Change settings in config/db.php('user' => 'your_username', 'pass' => 'your_password').
+- Open site at url localhost/books.
 
 ## Notes
 
-При создании и апдейте книг и авторов, привязка идет к id, поэтому в полях нужно указывать id сущностей, у которых есть привяка в базе данных.
+- The project works with the apache server.
+- When creating and updating books and authors, the binding goes to id, so in the fields you need to specify the id of entities that have a binding in the database.
